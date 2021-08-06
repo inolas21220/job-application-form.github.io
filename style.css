@@ -1,0 +1,39 @@
+body {
+    background-color: #ffffff;
+    text-align: center;
+    /* color: #003638; */
+}
+
+.BD {
+    background-color: #aaaaf5;
+    margin: 3% 25%;
+    padding: 2%;
+    border: 3px solid rgb(139, 15, 241);
+}
+
+form {
+    padding: 3% 0;
+}
+
+.a {
+    border-radius: 2px;
+    margin-bottom: 1.0%;
+    width: 60%;
+}
+
+.h5 {
+    padding: 3% 10% 0;
+    text-align: center;
+}
+
+.SK,
+.ED,
+.JD {
+    padding: 3% 10% 0;
+    text-align: left;
+}
+
+button {
+    width: 40%;
+    margin: 4% 0 0;
+}
